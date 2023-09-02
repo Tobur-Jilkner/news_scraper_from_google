@@ -1,6 +1,3 @@
-#   Created by: Tobur Jilkner
-#   © Tobur Jilkner
-
 import urllib.request
 import pandas as pd
 import sys
